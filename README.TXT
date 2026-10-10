@@ -1,3 +1,8 @@
+/* CS273-Methods-and-Classes-Lab */
+
+For the CS368 class, our class activity was to upgrade a CS273 lab, and 
+here were my contributions.
+
 ------------------------------------------------------------------------
 This is the project README file. Here, you should describe your project.
 Tell the reader (someone who does not know anything about this project)
